@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to FRC Team 302's Sofware documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
