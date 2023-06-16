@@ -10,18 +10,18 @@ Contents
 
 .. toctree::
 
-   Development Environment
+   #Development Environment
       Sofware Tools and Setup
 
-   Coding Training
+   #Coding Training
          C++
          C#
-   Robot Hardware
+   #Robot Hardware
       NI Hardware
       CTRE Phoenix Hardware
       REV Hardware
       Limelight
       Co-Processors
-   Source Code Control
-   Other Concepts
+   #Source Code Control
+   #Other Concepts
       Closed Loop Control
