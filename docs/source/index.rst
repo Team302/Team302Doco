@@ -1,13 +1,7 @@
 Welcome to FRC Team 302's Sofware documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This documentation will cover:
 
 .. note::
 
@@ -18,5 +12,21 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Development Environment
+      Sofware Tools and Setup
+
+   Coding Training
+         C++
+         C#
+
+   Robot Hardware
+      NI Hardware
+      CTRE Phoenix Hardware
+      REV Hardware
+      Limelight
+      Co-Processors
+
+   Source Code Control
+
+   Other Concepts
+      Closed Loop Control
