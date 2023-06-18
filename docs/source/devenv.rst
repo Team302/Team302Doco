@@ -1,32 +1,21 @@
-Coding Languages
+Development Enviornment
 =========================
 
 .. _installation:
 
-C++
+Tools
 ------------
 
-To use Lumache, first install it using pip:
+To set up the environment, first follow the instructions from here. This will get many of the tools installed. Then look through the following list to add missing tools.
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-C#
-----------------
+VSCode / Gradle / 3rd Party Tools
+----------------------------------
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
+This is ths standard environment and is needed to create C++ code, build it and deploy it to the robot. Install using the instructions found here. Don't forget the 3rd party tools (we used CTRE and Rev Robotics tools most years.)
 
-.. autofunction:: lumache.get_random_ingredients
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
 
 >>> import lumache
 >>> lumache.get_random_ingredients()
