@@ -23,5 +23,6 @@ Contents
 
    usage
    api
+   codingLanguages
    devenv
 
