@@ -3,7 +3,7 @@ Coding Languages
 
 .. _installation:
 
-C++
+C Plus Plus (C++)
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-C#
+CSharp (C#)
 ----------------
 
 To retrieve a list of random ingredients,
