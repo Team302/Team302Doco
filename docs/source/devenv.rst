@@ -1,5 +1,5 @@
-Usage
-=====
+Developement Environment
+=========================
 
 .. _installation:
 
