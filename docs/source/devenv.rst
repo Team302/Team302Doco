@@ -3,7 +3,7 @@ Developement Environment
 
 .. _installation:
 
-Installation
+C++
 ------------
 
 To use Lumache, first install it using pip:
