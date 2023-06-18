@@ -16,3 +16,4 @@ This is a desktop interface to Git -- specifically GitHub -- where our code and 
 VS Code Plugin
 ------------------
 
+TODO:  Add details
