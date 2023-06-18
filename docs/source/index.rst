@@ -24,7 +24,7 @@ Contents
    usage
    api
    buildEditTools
-   softwareConfigurationManagementTools
+   softwareConfigurationManagement
    controllerTools
    codingLanguages
 
