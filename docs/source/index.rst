@@ -9,8 +9,9 @@ Contents
 --------
 
 .. toctree::
-api
-usage
+
+   usage
+   api
 
    #devenv
       Sofware Tools and Setup
