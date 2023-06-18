@@ -12,4 +12,5 @@ Contents
 
    usage
    api
+   devenv
 
