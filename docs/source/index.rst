@@ -23,6 +23,8 @@ Contents
 
    usage
    api
-   devenv
+   buildEditTools
+   softwareConfigurationManagementTools
+   controllerTools
    codingLanguages
 
