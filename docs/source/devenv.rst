@@ -30,6 +30,34 @@ Gamepad Configuration Tool
 
 When building custom gamepads, this tool is used to program the board to assign certain inputs to particular analog/digital input. This is installed as part of the NI game specific tools.
 
+
+Software Configuration Management Tools
+==========================================
+
+GitHub
+-------
+
+This is a website where our code is stored using a Git Configuration Management Tool. Additionally, we create project(s) and use the Kanban board to manage activities. Visit Our main github page.
+
+GitKraken
+----------
+
+This is a desktop interface to Git -- specifically GitHub -- where our code and projects reside. This makes it easier to interact with the remote repository using a GUI instead of the command line. We use the free version that can be downloaded from here.
+
+
+
+VS Code Plugin
+------------------
+
+
+
+
+
+
+
+
+
+
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
 This is ths standard environment and is needed to create C++ code, build it and deploy it to the robot. Install using the instructions found here. Don't forget the 3rd party tools (we used CTRE and Rev Robotics tools most years.)
