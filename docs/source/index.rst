@@ -23,6 +23,7 @@ Contents
 
    buildEditTools
    softwareConfigurationManagement
+   hardware
    doco
    codingLanguages
    dashboard
