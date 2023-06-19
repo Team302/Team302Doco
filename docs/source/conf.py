@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Team 302 Sofware Documentation'
+project = 'FRC Team 302 Sofware Documentation'
 copyright = '2023, Graziella'
 author = 'Graziella'
 
