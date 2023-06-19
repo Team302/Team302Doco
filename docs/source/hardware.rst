@@ -1,15 +1,12 @@
-###############################
 Robot Hardware Configuration
 ###############################
 Robot Hardware overview can be found at https://docs.wpilib.org/en/stable/stubs/hardware-stub.html.
 
-*****************************************
 Status Light Quick Reference
 *****************************************
 
 https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html
 
-*****************************************
 RoboRio Configuration Tool
 *****************************************
 
@@ -26,7 +23,6 @@ PI Pico
 RoboRio has issues with I2C bus (sometimes locks up the roboRio.   There is a work around by using a PI Pico board to interface.
 TODO:  pull doco
 
-*****************************************
 Radio Configuration Tool
 *****************************************
 
@@ -38,7 +34,7 @@ Lately, I've been pretty successful with this using just a power supply and my l
 
 
 
-*****************************************
+
 CTRE Pheonix Tuner
 *****************************************
 
@@ -46,13 +42,13 @@ This gets installed as part of installing the CTRE 3rd party tools. It allows th
 
 Lately we have been using Phoenix X which isn't installed this way rather it comes from the windows store.  This seems to work better.
 
-*****************************************
+
 REV Hardware Client
 *****************************************
 
 See https://docs.revrobotics.com/rev-hardware-client/ for setting up REV hardware.
 
-*****************************************
+
 Limelight Configuration Tool
 *****************************************
 
