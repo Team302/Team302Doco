@@ -9,7 +9,6 @@ Contents
 --------
 
 .. toctree::
-.. image:: ../images/Team302LogoNew.png
 
    devenv
    buildEditTools
