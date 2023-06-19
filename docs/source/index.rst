@@ -31,6 +31,7 @@ Contents
    codingLanguages
    controllerTools
    dashboard
+   plotting
    closedloop
    vision
    coprocessor
