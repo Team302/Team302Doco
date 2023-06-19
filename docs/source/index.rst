@@ -1,7 +1,7 @@
 Welcome to FRC Team 302's Software documentation
 =================================================
 
-.. image:: ../html/static/Team302LogoNew.png
+.. image:: ../images/Team302LogoNew.png
 
 .. note:: This project is under active development.
 
