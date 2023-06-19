@@ -39,9 +39,10 @@ CTRE vs. REV vs. RoboRio closed loops
 TODO:  pull doco
 
 
-**************************************
+*****************************
 RAMSETE vs. Holonomic Controller
-****************************************
+*****************************
+
 
 
 TODO:  pull doco
