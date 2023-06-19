@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'FRC Team 302 Sofware Documentation'
-copyright = '2023, Graziella'
-author = 'Graziella'
+copyright = '2023, Team 302 '
+author = 'Team 302 Software'
 
 release = '0.1'
 version = '0.1.0'
