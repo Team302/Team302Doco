@@ -23,7 +23,7 @@ Contents
 
    buildEditTools
    softwareConfigurationManagement
-   controllerTools
    doco
    codingLanguages
+   controllerTools
 
