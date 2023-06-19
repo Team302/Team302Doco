@@ -1,14 +1,14 @@
 
 
 Build/Edit Tools
-################################
+====================
 
 To set up the environment, first follow the instructions from here. This will get many of the tools installed. Then look through the following list to add missing tools.
 
 
 
 VSCode / Gradle / 3rd Party Tools
-***************************************
+-----------------------------------
 
 This is from this Chief Delphi topic (https://www.chiefdelphi.com/t/intelli-non-sense-help/375155/3)
 
