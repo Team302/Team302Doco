@@ -31,6 +31,7 @@ Contents
    codingLanguages
    controllerTools
    dashboard
+   closedloop
    vision
    coprocssor
 
