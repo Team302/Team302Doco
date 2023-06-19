@@ -2,6 +2,23 @@
 Vision / Machine Learning
 =========================
 
+AprilTags
+------------
+
+TODO: pull doco
+
+
+Retro Reflective Targets
+---------------------------
+
+TODO: pull doco
+
+Game Piece / Field Element Detection
+-------------------------------------
+
+TODO: pull doco
+
+
 
 Limelight
 -----------------
