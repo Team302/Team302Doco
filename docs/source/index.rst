@@ -21,8 +21,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    buildEditTools
    softwareConfigurationManagement
    controllerTools
