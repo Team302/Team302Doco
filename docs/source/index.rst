@@ -33,5 +33,5 @@ Contents
    dashboard
    closedloop
    vision
-   coprocssor
+   coprocessor
 
