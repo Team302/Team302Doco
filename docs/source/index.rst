@@ -22,6 +22,8 @@ Contents
    controllerTools
    dashboard
    mechanisms
+   logging
+   simulation
    plotting
    closedloop
    vision
