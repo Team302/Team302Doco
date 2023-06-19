@@ -24,6 +24,8 @@ Contents
    buildEditTools
    softwareConfigurationManagement
    hardware
+   ftphelnet
+   riologviewer
    doco
    codingLanguages
    dashboard
