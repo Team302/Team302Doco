@@ -6,7 +6,8 @@ Plotting/Graphing
 Third Coast Tools
 -----------------
 
-  TODO: pull doco
+Stryke Force has provided tools for getting telemetry data a plotting it.  The TCT (https://github.com/strykeforce/thirdcoast-tct) and the Grapher (https://github.com/strykeforce/grapher) applications.  The materials and videos for tuning motor PIDS using these tools can be found at:  https://www.strykeforce.org/resources/ in the Stryke Force Talon SRX Motor Training Course.
+
 
 WPI Tools (glass, shuffleboard)
 ---------------------------------------
