@@ -21,7 +21,9 @@ Contents
 
 .. toctree::
 
-   buildEditTools
+   devenv
+   
+buildEditTools
    softwareConfigurationManagement
    hardware
    ftphelnet
