@@ -21,6 +21,7 @@ Contents
    codingLanguages
    controllerTools
    dashboard
+   mechanisms
    plotting
    closedloop
    vision
