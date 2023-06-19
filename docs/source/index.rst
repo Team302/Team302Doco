@@ -31,4 +31,6 @@ Contents
    codingLanguages
    controllerTools
    dashboard
+   vision
+   coprocssor
 
