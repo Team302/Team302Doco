@@ -3,31 +3,26 @@ Coding Languages
 
 .. _installation:
 
-C Plus Plus (C++)
+C++
 ------------
 
-To use Lumache, first install it using pip:
+This is the main language we use on competition robots.
 
-.. code-block:: console
+TODO:  add details
 
-   (.venv) $ pip install lumache
-
-CSharp (C#)
+C#
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+We use C# on demonstration robots that use a Hero Board. 
 
-.. autofunction:: lumache.get_random_ingredients
+Our Code Generator is also written in C#.
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+TODO:  add details
 
-.. autoexception:: lumache.InvalidKindError
+XML / DTD / XSD
+------------------
 
-For example:
+Our Robot Configuration Files are defined in XML.  The Code Generator utilizes XSD to generate the XML files.
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+TODO:  add details
+
