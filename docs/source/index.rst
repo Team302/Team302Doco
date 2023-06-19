@@ -29,6 +29,6 @@ Contents
    riologviewer
    doco
    codingLanguages
-   dashboard
    controllerTools
+   dashboard
 
