@@ -1,14 +1,15 @@
 Robot Hardware Configuration
-###############################
+==============================
+
 Robot Hardware overview can be found at https://docs.wpilib.org/en/stable/stubs/hardware-stub.html.
 
 Status Light Quick Reference
-*****************************************
+----------------------------
 
 https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html
 
 RoboRio Configuration Tool
-*****************************************
+---------------------------
 
 This is part of the FRC Game Tools that gets installed as part of installing the environment.  Some keys are the RoboRio 1 doesn't have an SD card and is configured completely using the tool.  RoboRio 2 has an SD card which is configured using the balenaEtcher (or other imaging tools listed on the main page).  Then the team number gets set using the RoboRio Imaging tool or the team number tool.
 
@@ -18,13 +19,13 @@ See https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/index.html for d
 
 
 PI Pico
-================
+^^^^^^^^^
 
 RoboRio has issues with I2C bus (sometimes locks up the roboRio.   There is a work around by using a PI Pico board to interface.
 TODO:  pull doco
 
 Radio Configuration Tool
-*****************************************
+------------------------
 
 This tool is installed separately as part of the environment set up.
 
@@ -36,7 +37,7 @@ Lately, I've been pretty successful with this using just a power supply and my l
 
 
 CTRE Pheonix Tuner
-*****************************************
+-------------------
 
 This gets installed as part of installing the CTRE 3rd party tools. It allows the firmware and CAN IDs to be set on the CTRE hardware. There are some really cool things that can be done as well such as running motors in both open loop and closed loop modes, plotting various property values, etc. Documentation can be found https://phoenix-documentation.readthedocs.io/en/latest/.
 
@@ -44,13 +45,13 @@ Lately we have been using Phoenix X which isn't installed this way rather it com
 
 
 REV Hardware Client
-*****************************************
+----------------------
 
 See https://docs.revrobotics.com/rev-hardware-client/ for setting up REV hardware.
 
 
 Limelight Configuration Tool
-*****************************************
+------------------------------
 
 Limelight (vision solution) has a series of tools found at https://limelightvision.io/pages/downloads.
 
