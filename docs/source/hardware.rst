@@ -4,12 +4,12 @@ Robot Hardware Configuration
 Robot Hardware overview can be found at https://docs.wpilib.org/en/stable/stubs/hardware-stub.html.
 
 Status Light Quick Reference
-============================
+----------------------------------
 
 https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html
 
 RoboRio Configuration Tool
-===========================
+----------------------------------
 
 This is part of the FRC Game Tools that gets installed as part of installing the environment.  Some keys are the RoboRio 1 doesn't have an SD card and is configured completely using the tool.  RoboRio 2 has an SD card which is configured using the balenaEtcher (or other imaging tools listed on the main page).  Then the team number gets set using the RoboRio Imaging tool or the team number tool.
 
