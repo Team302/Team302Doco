@@ -40,3 +40,16 @@ Hero
 ***********************
 
 TODO: pull doco
+
+
+#############################
+Hardware Accelerators
+#############################
+
+
+***********************
+Google Coral
+***********************
+
+Works with Limelight and Raspberry PI Machine Learning Solutions.
+TODO: pull doco
