@@ -25,7 +25,8 @@ Contents
    buildEditTools
    softwareConfigurationManagement
    hardware
-   ftphelnet
+   coprocessor
+   ftptelnet
    riologviewer
    doco
    codingLanguages
@@ -34,5 +35,4 @@ Contents
    plotting
    closedloop
    vision
-   coprocessor
 
