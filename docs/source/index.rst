@@ -25,5 +25,6 @@ Contents
    softwareConfigurationManagement
    doco
    codingLanguages
+   dashboard
    controllerTools
 
