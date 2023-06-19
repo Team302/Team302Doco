@@ -1,73 +1,15 @@
 Development Enviornment
 =========================
 
-.. _installation:
+To set up the environment, first follow the instructions from https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html for the C++ or common tasks.  These steps will install:
 
-To set up the environment, first follow the instructions from here. This will get many of the tools installed. Then look through the following list to add missing tools.
+- Game Tools (see driver's station, roborio imaging, etc. for some of the tools installed as part of this).
 
+- Radio Configuration Tools (see https://team302doco.readthedocs.io/en/latest/hardware.html#radio-configuration-tool for details on running the tool)
 
-Build/Edit Tools
-=========================
+- WPI Tools / VS Code (see https://team302doco.readthedocs.io/en/latest/buildEditTools.html# for details on these tools)
 
-To set up the environment, first follow the instructions from here. This will get many of the tools installed. Then look through the following list to add missing tools.
-
-VSCode / Gradle / 3rd Party Tools
-----------------------------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-This is ths standard environment and is needed to create C++ code, build it and deploy it to the robot. Install using the instructions found here. Don't forget the 3rd party tools (we used CTRE and Rev Robotics tools most years.)
+- 3rd Party tools (CTRE and REV are the ones we use)  See https://team302doco.readthedocs.io/en/latest/hardware.html#ctre-pheonix-tuner and https://team302doco.readthedocs.io/en/latest/hardware.html#rev-hardware-client for details on running the tools.
 
 
 
-Software Configuration Management Tools
-==========================================
-
-GitHub
--------
-
-This is a website where our code is stored using a Git Configuration Management Tool. Additionally, we create project(s) and use the Kanban board to manage activities. Visit Our main github page.
-
-GitKraken
-----------
-
-This is a desktop interface to Git -- specifically GitHub -- where our code and projects reside. This makes it easier to interact with the remote repository using a GUI instead of the command line. We use the free version that can be downloaded from here.
-
-
-
-VS Code Plugin
-------------------
-
-
-
-Controller Tools
-=========================
-
-
-Game Controllers
------------------
-Run Joystick on your windows laptop.   You can check whether each axis/button is working and configure the axis if the 0 point is off.
-
-Gamepad Configuration Tool
-----------------------------------
-
-When building custom gamepads, this tool is used to program the board to assign certain inputs to particular analog/digital input. This is installed as part of the NI game specific tools.
-
-
-
-
-
-
-
-
-
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-This is ths standard environment and is needed to create C++ code, build it and deploy it to the robot. Install using the instructions found here. Don't forget the 3rd party tools (we used CTRE and Rev Robotics tools most years.)
-
-
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
