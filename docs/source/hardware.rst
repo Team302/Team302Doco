@@ -3,6 +3,9 @@ Robot Hardware Configuration
 
 Robot Hardware overview can be found at https://docs.wpilib.org/en/stable/stubs/hardware-stub.html.
 
+An overview presentation is found here:  https://docs.google.com/presentation/d/1Dhm7V9cdh9EMjhA33Lmx3TD4fkXS6uLIZx33OOgIuTM/edit#slide=id.g1f87997393_0_782
+
+
 Status Light Quick Reference
 ----------------------------
 
@@ -22,7 +25,8 @@ PI Pico
 ^^^^^^^^^
 
 RoboRio has issues with I2C bus (sometimes locks up the roboRio.   There is a work around by using a PI Pico board to interface.
-TODO:  pull doco
+
+Thad House has put together code to make this work.  See https://github.com/ThadHouse/picocolorsensor
 
 Radio Configuration Tool
 ------------------------
