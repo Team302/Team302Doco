@@ -25,6 +25,10 @@ FRC Team 302 Software Team Documentation
 
     ## Closed Loop Control <br>
 
+
+
+https://team302doco.readthedocs.io/en/latest/
+
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
