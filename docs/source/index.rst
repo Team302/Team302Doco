@@ -21,6 +21,7 @@ Contents
    riologviewer
    doco
    codingLanguages
+   robotcode
    controllerTools
    dashboard
    mechanisms
