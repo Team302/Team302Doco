@@ -5,6 +5,8 @@ Robot Hardware overview can be found at https://docs.wpilib.org/en/stable/stubs/
 
 An overview presentation is found here:  https://docs.google.com/presentation/d/1Dhm7V9cdh9EMjhA33Lmx3TD4fkXS6uLIZx33OOgIuTM/edit#slide=id.g1f87997393_0_782
 
+https://docs.google.com/presentation/d/1yIJ3jNkbtcEp67RDO22nGQyjTlIGVo6FmIXg52GUQuo/edit#slide=id.g1f87997393_0_782
+
 
 Status Light Quick Reference
 ----------------------------
@@ -46,6 +48,7 @@ CTRE Pheonix Tuner
 This gets installed as part of installing the CTRE 3rd party tools. It allows the firmware and CAN IDs to be set on the CTRE hardware. There are some really cool things that can be done as well such as running motors in both open loop and closed loop modes, plotting various property values, etc. Documentation can be found https://phoenix-documentation.readthedocs.io/en/latest/.
 
 Lately we have been using Phoenix X which isn't installed this way rather it comes from the windows store.  This seems to work better.
+
 
 
 REV Hardware Client
