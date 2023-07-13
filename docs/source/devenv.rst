@@ -7,8 +7,8 @@ To set up the environment, first follow the instructions from https://docs.wpili
 These steps will install:
 
 
-Build Tools 
--------------
+Build/Edit Tools 
+-----------------
 
 WPI Tools / VS Code (see https://team302doco.readthedocs.io/en/latest/buildEditTools.html for details on these tools) as well as
 3rd Party tools (CTRE and REV are the ones we use)  See https://team302doco.readthedocs.io/en/latest/hardware.html#ctre-pheonix-tuner and https://team302doco.readthedocs.io/en/latest/hardware.html#rev-hardware-client for details on running the tools.
