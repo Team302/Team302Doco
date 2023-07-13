@@ -3,12 +3,17 @@
 Build/Edit Tools
 ====================
 
-To set up the environment, first follow the instructions from here. This will get many of the tools installed. Then look through the following list to add missing tools.
+Follow the instructions found https://team302doco.readthedocs.io/en/latest/devenv.html.
 
 
 
-VSCode / Gradle / 3rd Party Tools
------------------------------------
+VSCode 
+-------
+
+TODO:  Add Details
+
+Intellisense
+^^^^^^^^^^^^^^
 
 This is from this Chief Delphi topic (https://www.chiefdelphi.com/t/intelli-non-sense-help/375155/3)
 
@@ -29,3 +34,15 @@ It’s actually not a Gradle issue, it’s just that occasionally the vscode eng
 * Open your main cpp file (not a header file). Intellisense should now be working.
 
 * Not closing vscode while doing this is key, closing it will reset the process. You just have to close all the tabs.
+
+Gradle
+-----------------------------------
+
+TODO:  Add Details
+
+
+3rd Party Tools
+-----------------------------------
+
+
+TODO:  Add Details
