@@ -14,7 +14,6 @@ Contents
 
    devenv
    hardware
-   riologviewer
    doco
    codingLanguages
    robotcode
