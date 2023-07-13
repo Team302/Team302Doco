@@ -14,7 +14,6 @@ Contents
 
    devenv
    hardware
-   coprocessor
    ftptelnet
    riologviewer
    doco
