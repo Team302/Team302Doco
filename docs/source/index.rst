@@ -13,7 +13,6 @@ Contents
 .. toctree::
 
    devenv
-   softwareConfigurationManagement
    hardware
    coprocessor
    ftptelnet
