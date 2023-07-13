@@ -1,5 +1,6 @@
 
-Setting up Development Enviornment
+===================================
+Development Enviornment
 ===================================
 
 To set up the environment, first follow the instructions from https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html for the C++ or common tasks.  
@@ -8,7 +9,8 @@ These steps will install:
 
 
 Build/Edit Tools 
------------------
+===================================
+
 
 WPI Tools / VS Code (see https://team302doco.readthedocs.io/en/latest/buildEditTools.html for details on these tools) as well as
 3rd Party tools (CTRE and REV are the ones we use)  See https://team302doco.readthedocs.io/en/latest/hardware.html#ctre-pheonix-tuner and https://team302doco.readthedocs.io/en/latest/hardware.html#rev-hardware-client for details on running the tools.
@@ -16,12 +18,12 @@ WPI Tools / VS Code (see https://team302doco.readthedocs.io/en/latest/buildEditT
 
 
 VSCode 
-^^^^^^^^
+--------
 
 TODO:  Add Details
 
 Intellisense
-""""""""""""""""""""""
+^^^^^^^^^^^^^^^^
 
 This is from this Chief Delphi topic (https://www.chiefdelphi.com/t/intelli-non-sense-help/375155/3)
 
@@ -44,29 +46,41 @@ It’s actually not a Gradle issue, it’s just that occasionally the vscode eng
 * Not closing vscode while doing this is key, closing it will reset the process. You just have to close all the tabs.
 
 Gradle
-^^^^^^^^
+--------
 
 TODO:  Add Details
 
 
 3rd Party Tools
-^^^^^^^^^^^^^^^^
+----------------
 
 
 TODO:  Add Details
 
 
 NI Game Tools 
---------------
+===================================
 
-Driver's station, RoboRio Imaging Tool, etc. (see driver's station, roborio imaging, etc. for some of the tools installed as part of this).
+
+RoboRio Imaging Tools
+-----------------------
+
+TODO:  Add Details
+
+
+Driver's Station
+------------------
+
+TODO:  Add Details
 
 
 
 Radio
-----------
+===================================
+
 
 Radio Configuration Tools (see https://team302doco.readthedocs.io/en/latest/hardware.html#radio-configuration-tool for details on running the tool)
 
+TODO:  Add Details
 
 
