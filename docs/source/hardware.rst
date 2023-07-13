@@ -26,6 +26,32 @@ The team number can be set/reset without re-imaging the roboRio, so if we are ta
 
 See https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/index.html for details on imaging the particular roborio.
 
+Connecting 
+-----------
+
+FTP/Telnet
+^^^^^^^^^
+ID: lvuser
+No Password
+
+ID: admin
+No Password
+
+
+
+Filezilla
+"""""""""""
+
+File Transfer (FTP) tool to put files on and retrieve files from the RoboRio. Can also edit the files as well. The download can be found at https://filezilla-project.org/.
+
+
+Putty
+"""""""""""
+
+An SSH/Telnet client for accessing files on the RoboRio. The download can be found at https://www.putty.org/.
+
+
+
 I2C Port
 ---------
 RoboRio has issues with I2C bus (sometimes locks up the roboRio).   
