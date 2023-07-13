@@ -3,7 +3,7 @@
 Controller Tools
 ===================
 
-Hardware Configuration
+Controller Configuration
 =======================
 
 Game Controllers
