@@ -26,6 +26,23 @@ The team number can be set/reset without re-imaging the roboRio, so if we are ta
 
 See https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/index.html for details on imaging the particular roborio.
 
+
+RoboRio Log Tools
+------------------
+
+
+RoboRio Log Viewer
+^^^^^^^^^^^^^^^^^^^
+This is part of the installation that installs the driverstation.
+
+
+
+RoboRio Log Viewer 2
+^^^^^^^^^^^^^^^^^^^
+
+This can be downloaded from https://github.com/orangelight/DSLOG-Reader/releases.
+
+
 Connecting 
 -----------
 
