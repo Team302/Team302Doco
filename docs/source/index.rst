@@ -14,7 +14,6 @@ Contents
 
    devenv
    hardware
-   ftptelnet
    riologviewer
    doco
    codingLanguages
