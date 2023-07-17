@@ -19,6 +19,7 @@ Contents
    robotcode
    controllerTools
    dashboard
+   chassis
    mechanisms
    logging
    simulation
