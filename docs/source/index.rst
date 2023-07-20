@@ -21,9 +21,9 @@ Contents
    dashboard
    chassis
    mechanisms
-   logging
-   simulation
-   plotting
-   closedloop
    vision
+   logging
+   closedloop
+   plotting
+   simulation
 
