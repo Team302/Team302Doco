@@ -50,18 +50,13 @@ https://docs.google.com/presentation/d/1oUOGqBp5AHyon0QSj0bG_IrJghgE0Y1lq85PgYP4
 TODO:  add more details
 
 
-
 Code Generator Code 
 ===================
 
 C#
 ----
 
-
-We use C# on demonstration robots that use a Hero Board. 
-
-Our Code Generator is also written in C#.
-
+Our Code Generator is written in C#.  
 
 Self-paced Tutorials:
 
@@ -78,6 +73,7 @@ Co-Processor
 =============
 
 Besides the things shown here, the C++ options from RoboRio Robot Code can also apply.
+
 
 Python
 -------
