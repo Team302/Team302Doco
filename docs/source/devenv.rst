@@ -65,20 +65,16 @@ In addition to the WPILib/FIRST provided tools, we use other 3rd party tools to 
 Software Configuration Management Tools
 ============================================
 
-
 GitHub / Github Desktop 
 --------------------------
 
-This is a website where our code is stored using a Git Configuration Management Tool. Additionally, we create project(s) and use the Kanban board to manage activities. Visit Our main github page at https://github.com/orgs/Team302/repositories.  Github Desktop can interact with the projects locally.
-
+GitHub is a website where our code is stored using a tool called Git.  Additionally, we manage our tasks and ToDo's using a Kanban board.  Our main GitHub page can be found at: https://github.com/orgs/Team302/repositories.
+GitHub Desktop is a desktop program that interacts with GitHub to make it easier to commit code changes.  This is the most commonly used tool to manage our commits and changes locally.  It can be found here: https://desktop.github.com/.
 
 GitKraken
 ---------
 
-This is a desktop interface to Git -- specifically GitHub -- where our code and projects reside. This makes it easier to interact with the remote repository using a GUI instead of the command line. We use the free version that can be downloaded from here.
-
-
-
+GitKraken is a similar program to GitHub desktop, however we have recently switched to using GitHub Desktop instead.  If you are still interested in using GitKraken, the free version can be downloaded at: https://www.gitkraken.com/.
 
 VS Code Plugin
 ---------------
