@@ -7,15 +7,9 @@ To set up the environment, first follow the instructions from https://docs.wpili
 
 These steps will install:
 
-
-Build/Edit Tools 
-===================================
-
-
-WPI Tools / VS Code (see https://team302doco.readthedocs.io/en/latest/buildEditTools.html for details on these tools) as well as
-3rd Party tools (CTRE and REV are the ones we use)  See https://team302doco.readthedocs.io/en/latest/hardware.html#ctre-pheonix-tuner and https://team302doco.readthedocs.io/en/latest/hardware.html#rev-hardware-client for details on running the tools.
-
-
+* WPI Tools such as SmartDashboard, Shuffleboard and Glass (all dashboards), PathWeaver (autonomous path planning) and SysID (robot characterization).
+* `VS Code <https://code.visualstudio.com/>`_ - A development environment to write robot code.
+* The WPILib extension for VS Code which provides features for us to build and deploy robot code to the robot.
 
 VSCode 
 --------
@@ -54,11 +48,21 @@ TODO:  Add Details
 3rd Party Tools
 ----------------
 
+3rd Party tools (CTRE and REV are the ones we use)  See https://team302doco.readthedocs.io/en/latest/hardware.html#ctre-pheonix-tuner and https://team302doco.readthedocs.io/en/latest/hardware.html#rev-hardware-client for details on running the tools.
 
-TODO:  Add Details
+
+In addition to the WPILib/FIRST provided tools, we use other 3rd party tools to develop, test, and run our robot code.  These include:
+
+* Cross The Road Electronics Phoenix 6/Pro Library - an API to control the Falcon 500 motors we mainly use and read data from our sensors like CANCoders and the Pigeon IMU. (link to phoenix lib install)
+* Cross The Road Electronics Phoenix Tuner X - a tool to test and configure CTRE products (Falcon motors, CANCoders, CANivores, etc.). (link to phoenix lib install)
+* REV Hardware Client - a tool to configure and read data from REV Robotics hardware (PDH, PCM, etc.).  (link to rev hw install)
+* Filezilla - a tool to transfer files from our computers to the RoboRIO. (link to filezilla)
+
+
+
 
 Software Configuration Management Tools
-=======================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 GitHub / Github Desktop 
