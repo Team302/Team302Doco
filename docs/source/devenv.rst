@@ -79,9 +79,13 @@ GitKraken is a similar program to GitHub desktop, however we have recently switc
 VS Code Plugin
 ---------------
 
-TODO:  Add details
+Here are some of the common commands we use from the WPILib VS Code Extension:
 
+* Build Robot Code - This command is used to compile our robot code without deploying to the robot.  This is useful if you don't want to or aren't able to deploy to a robot but would like to be ready for when you can.
+* Deploy Robot Code - This will build the robot code if it hasn't been built and then deploy the code to the robot.  This is how we test robot code and push our changes to be used on the field.
+* Set Team Number - This sets the team number that you will deploy to with the previous command.  This needs to be set when switching from one robot to another.
 
+.. note:: In the future, we may also create our own vs code extension to add convenient features like pulling up the docs locally and starting the code generator from vs code.
 
 NI Game Tools 
 ===================================
