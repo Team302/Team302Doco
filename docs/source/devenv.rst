@@ -3,6 +3,9 @@
 Development Enviornment
 ===================================
 
+Initial Environment Setup (WPILib + VS Code)
+====================================
+
 To set up the environment, first follow the instructions from https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html for the C++ or common tasks.  
 
 These steps will install:
@@ -11,15 +14,16 @@ These steps will install:
 * `VS Code <https://code.visualstudio.com/>`_ - A development environment to write robot code.
 * The WPILib extension for VS Code which provides features for us to build and deploy robot code to the robot.
 
-VSCode 
+Visual Studio Code 
 --------
 
-TODO:  Add Details
+Visual Studio (VS) Code is a free development environment that is best supported by WPILib.  It is different from Microsoft's other development environment, Visual Studio, in many ways.  However, we do use Visual Studio to develop our code generator.  VS Code comes bundled with WPILib's install so there is no need to install separately.  It also comes with the WPILib extension, which offers lots of functionality to build and deploy robot code, simulate robot code, and more.  
 
-Intellisense
+VS Code Intellisense Issue
 ^^^^^^^^^^^^^^^^
+Occasionally intellisense (the service that provides code completion, error highlighting, and more) will suddenly stop working in VS Code.  If this happens, take the steps below to fix the issue.
 
-This is from this Chief Delphi topic (https://www.chiefdelphi.com/t/intelli-non-sense-help/375155/3)
+  This is from this Chief Delphi topic https://www.chiefdelphi.com/t/intelli-non-sense-help/375155/3
 
 It’s actually not a Gradle issue, it’s just that occasionally the vscode engine gets confused. Follow the following steps to try and reset everything.
 
@@ -42,27 +46,24 @@ It’s actually not a Gradle issue, it’s just that occasionally the vscode eng
 Gradle
 --------
 
-TODO:  Add Details
+Gradle is the code building tool that is bundled with WPILib to build and deploy our code to the robot.  It manages all of the different dependencies we have for third party libraries and works with a compiler to get our code to run on the robot.
 
+There are two important files associated with Gradle. ``build.gradle`` is used to define all of our dependencies and it tells the compiler which files to compile.  We have edited this slightly to give us more details like the author of the build, date and time, etc.  The other file ``settings.gradle`` is used to set up some properties for GradleRIO, WPILib's Gradle extension.
 
 3rd Party Tools
 ----------------
 
 3rd Party tools (CTRE and REV are the ones we use)  See https://team302doco.readthedocs.io/en/latest/hardware.html#ctre-pheonix-tuner and https://team302doco.readthedocs.io/en/latest/hardware.html#rev-hardware-client for details on running the tools.
 
-
 In addition to the WPILib/FIRST provided tools, we use other 3rd party tools to develop, test, and run our robot code.  These include:
 
-* Cross The Road Electronics Phoenix 6/Pro Library - an API to control the Falcon 500 motors we mainly use and read data from our sensors like CANCoders and the Pigeon IMU. (link to phoenix lib install)
-* Cross The Road Electronics Phoenix Tuner X - a tool to test and configure CTRE products (Falcon motors, CANCoders, CANivores, etc.). (link to phoenix lib install)
-* REV Hardware Client - a tool to configure and read data from REV Robotics hardware (PDH, PCM, etc.).  (link to rev hw install)
-* Filezilla - a tool to transfer files from our computers to the RoboRIO. (link to filezilla)
-
-
-
+* `Cross The Road Electronics Phoenix Pro Library <https://pro.docs.ctr-electronics.com/en/stable/>`_ - an API to control the Falcon 500 motors we mainly use and read data from our sensors like CANCoders and the Pigeon IMU.  
+* `Cross The Road Electronics Phoenix Tuner X <https://pro.docs.ctr-electronics.com/en/stable/docs/tuner/index.html>`_ - a tool to test and configure CTRE products (Falcon motors, CANCoders, CANivores, etc.).  Find more details on the tool `here <https://team302doco.readthedocs.io/en/latest/hardware.html#ctre-phoenix-tuner>`_
+* `REV Hardware Client <https://docs.revrobotics.com/rev-hardware-client/>`_ - a tool to configure and read data from REV Robotics hardware (PDH, PCM, etc.).  Find more details on the tool `here <https://team302doco.readthedocs.io/en/latest/hardware.html#rev-hardware-client>`_
+* `Filezilla <https://filezilla-project.org/>`_ - a tool to transfer files from our computers to the RoboRIO. (link to filezilla)
 
 Software Configuration Management Tools
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================================
 
 
 GitHub / Github Desktop 
