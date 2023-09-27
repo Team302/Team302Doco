@@ -17,9 +17,9 @@ This is the main language we use on competition robots.
 
 Self-paced Tutorials:
 
-https://www.learncpp.com/
+Learncpp tutorial:  https://www.learncpp.com/
 
-https://www.w3schools.com/cpp/default.asp
+W3 Schools tutorial:  https://www.w3schools.com/cpp/default.asp
 
 Training Presentations:
 
