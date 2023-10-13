@@ -1,7 +1,7 @@
 Welcome to FRC Team 302's Software documentation
 =================================================
 
-.. image:: ../Docs/images/Team302LogoNew.png
+.. image:: ./images/Team302LogoNew.png
 
 https://team302doco.readthedocs.io/en/latest/
 
