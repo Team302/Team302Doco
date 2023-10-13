@@ -16,12 +16,14 @@ C++
 This is the main language we use on competition robots.
 
 Self-paced Tutorials:
+~~~~~~~~~~~~~~~~~~~~~
 
 Learncpp tutorial:  https://www.learncpp.com/
 
 W3 Schools tutorial:  https://www.w3schools.com/cpp/default.asp
 
 Training Presentations:
+~~~~~~~~~~~~~~~~~~~~~
 
 https://docs.google.com/presentation/d/1K56woxaXvloTdD96qgGN816_1pcUihMs8mL8JUr8M4Y/edit#slide=id.g1f87997393_0_782
 
@@ -39,12 +41,15 @@ XML / DTD / XSD
 Our Robot Configuration Files are defined in XML.  The Code Generator utilizes XSD to generate the XML files.
 
 
-Self-paced Training
+Self-paced Training:
+~~~~~~~~~~~~~~~~~~~~~
+
 
 https://www.w3schools.com/xml/default.asp
 
 
 Training Presentations:
+~~~~~~~~~~~~~~~~~~~~~
 
 https://docs.google.com/presentation/d/1oUOGqBp5AHyon0QSj0bG_IrJghgE0Y1lq85PgYP48Mw/edit#slide=id.g1f87997393_0_782
 
@@ -60,11 +65,13 @@ C#
 Our Code Generator is written in C#.  
 
 Self-paced Tutorials:
+~~~~~~~~~~~~~~~~~~~~~
 
 https://www.w3schools.com/cs/index.php
 
 
 Training Presentations:
+~~~~~~~~~~~~~~~~~~~~~
 
 https://docs.google.com/presentation/d/149Tu9QUNAZ9sPf6bedXer4GpiOl1lxSqK600yxFeNK0/edit#slide=id.g3ca070eb69_0_62
 
@@ -82,6 +89,7 @@ Python
 Sometimes we do our vision coding in Python on the co-processor.
 
 Self-Paced Training
+~~~~~~~~~~~~~~~~~~~~~
 
 https://www.w3schools.com/python/default.asp
 
