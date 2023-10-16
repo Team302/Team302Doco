@@ -24,10 +24,8 @@ Self-paced Tutorials:
 Training Presentations:
 ~~~~~~~~~~~~~~~~~~~~~
 
-- 
- 
- 
- https://docs.google.com/presentation/d/1K56woxaXvloTdD96qgGN816_1pcUihMs8mL8JUr8M4Y/edit#slide=id.g1f87997393_0_782
+-     https://docs.google.com/presentation/d/1PeexmqShnf3PD-yPm97TZl94VXbjihP0/edit?usp=sharing&ouid=108257398000499150515&rtpof=true&sd=true
+-     https://docs.google.com/presentation/d/1K56woxaXvloTdD96qgGN816_1pcUihMs8mL8JUr8M4Y/edit#slide=id.g1f87997393_0_782
 -    https://docs.google.com/presentation/d/1bt-19HIg4407cSDP2U8ghxULp6YjhSRs7ZiG9XLmSW8/edit?pli=1#slide=id.g1f87997393_0_782
 -    https://docs.google.com/presentation/d/13W5solJC5CxRrpFzc1F39aa1BfkAEQIf/edit?usp=sharing&ouid=108257398000499150515&rtpof=true&sd=true
 
