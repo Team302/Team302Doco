@@ -19,7 +19,7 @@ Self-paced Tutorials:
 ~~~~~~~~~~~~~~~~~~~~~
 
 -    `Learncpp tutorial  <https://www.learncpp.com/>`_
--    `W3 Schools tutorial <https://www.w3schools.com/cpp/default.asp>`_
+-    `W3Schools C++ tutorial <https://www.w3schools.com/cpp/default.asp>`_
 
 
 Training Presentations:
@@ -46,7 +46,7 @@ Self-paced Training:
 ~~~~~~~~~~~~~~~~~~~~~
 
 
--    `W3 Schools Tutorial <https://www.w3schools.com/xml/default.asp>`_
+-    `W3 Schools XML Tutorial <https://www.w3schools.com/xml/default.asp>`_
 
 
 Training Presentations:
@@ -67,7 +67,7 @@ Our Code Generator is written in C#.
 Self-paced Tutorials:
 ~~~~~~~~~~~~~~~~~~~~~
 
--    `W3Schools tutorial  <https://www.w3schools.com/cs/index.php>`_
+-    `W3Schools C# tutorial  <https://www.w3schools.com/cs/index.php>`_
 
 
 Training Presentations:
@@ -90,7 +90,7 @@ Sometimes we do our vision coding in Python on the co-processor.
 Self-Paced Training
 ~~~~~~~~~~~~~~~~~~~~~
 
--    `W3 Schools tutorial <https://www.w3schools.com/python/default.asp>`_
+-    `W3 Schools Python tutorial <https://www.w3schools.com/python/default.asp>`_
 
 
 TODO:  add more details
