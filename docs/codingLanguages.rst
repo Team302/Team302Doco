@@ -26,7 +26,7 @@ Self-paced Tutorials:
 Training Presentations:
 ~~~~~~~~~~~~~~~~~~~~~
 
--     C++ Basics (summer 2023) - Generic C++ using online compiler:  https://docs.google.com/presentation/d/1PeexmqShnf3PD-yPm97TZl94VXbjihP0/edit?usp=sharing&ouid=108257398000499150515&rtpof=true&sd=true
+-     `C++ Basics (summer 2023) - Generic C++ using online compiler <https://docs.google.com/presentation/d/1PeexmqShnf3PD-yPm97TZl94VXbjihP0/edit?usp=sharing&ouid=108257398000499150515&rtpof=true&sd=true>`_
 -    C++ Programming I (2017) - Robot-based examples for basic C++ concepts (need a chassis bot to complete): https://docs.google.com/presentation/d/1K56woxaXvloTdD96qgGN816_1pcUihMs8mL8JUr8M4Y/edit#slide=id.g1f87997393_0_782
 -    C++ Programming II (2017) Object Oriented examples with C++ 11/14 concepts (need a chassis bot to complete): 
  https://docs.google.com/presentation/d/1bt-19HIg4407cSDP2U8ghxULp6YjhSRs7ZiG9XLmSW8/edit?pli=1#slide=id.g1f87997393_0_782
