@@ -51,7 +51,7 @@ Self-paced Training:
 Training Presentations:
 ~~~~~~~~~~~~~~~~~~~~~
 
--    `Introduction to XML training from 2017:  
+-    `Introduction to XML (2017):  
 <https://docs.google.com/presentation/d/1oUOGqBp5AHyon0QSj0bG_IrJghgE0Y1lq85PgYP48Mw/edit#slide=id.g1f87997393_0_782>`_  covers XML, DTD and Robot.xml parsing concepts
 
 
