@@ -18,20 +18,23 @@ For the 2023 season we should be eliminating one of the Path option.  Additional
 
 `See Path Generation <https://team302doco.readthedocs.io/en/latest/paths.html>`_ for details on how paths are created.
 
-TODO:  Add information
+.. todo::
+Add information
 
 
 Transitions between Drive Primitives
 =====================================
 
-TODO:  Add information
+.. todo::
+Add information
 
 
 
 Events along the Path
 =======================
 
-TODO:  Add information
+.. todo::
+Add information
 
 
 
@@ -39,6 +42,7 @@ TODO:  Add information
 Mechanism State Control
 =======================
 
-TODO:  Add information
+.. todo::
+Add information
 
 
