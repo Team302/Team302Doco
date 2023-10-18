@@ -8,7 +8,7 @@ Theory
 =======================
 
 
-Tyler Veness' book has a lot of great information and is the basis for much of the WPI closed loop APIs.   See https://github.com/calcmogul/controls-engineering-in-frc.
+Tyler Veness' book has a lot of great information and is the basis for much of the WPI closed loop APIs.   `See Controls Engineering in FRC <https://github.com/calcmogul/controls-engineering-in-frc>`_.
 
 
 PIDF
