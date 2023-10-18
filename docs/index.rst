@@ -22,6 +22,8 @@ Contents
    chassis
    mechanisms
    vision
+   paths
+   autons
    logging
    closedloop
    plotting
