@@ -16,14 +16,16 @@ PIDF
 
 
 
-  TODO: pull doco
+.. todo::
+Add information
 
 
 Trapezoid / Motion Magic Profiled PIDs
 ---------------------------------------
 
 
-TODO:  pull doco
+.. todo::
+Add information
   
 
 Bang-Bang
@@ -31,7 +33,8 @@ Bang-Bang
 
 
 
-TODO: pull doco
+.. todo::
+Add information
 
 
 
@@ -40,7 +43,8 @@ CTRE vs. REV vs. RoboRio closed loops
 
 
 
-TODO:  pull doco
+.. todo::
+Add information
 
 
 
@@ -50,7 +54,8 @@ RAMSETE vs. Holonomic Controller
 
 
 
-TODO:  pull doco
+.. todo::
+Add information
 
 
 
@@ -59,5 +64,6 @@ Accounting for latency
 
 
 
-TODO: pull doco for things like shooting while driving
+.. todo::
+Add information including shooting while driving
 
