@@ -77,7 +77,7 @@ PI Pico
 ^^^^^^^^^
 There is a work around for I2C bug using a PI Pico board to interface.
 
-Thad House has put together code to make this work.  `See <https://github.com/ThadHouse/picocolorsensor>`_
+Thad House has put together code to make this work.  `See workaround project. <https://github.com/ThadHouse/picocolorsensor>`_
 
 Radio
 ======
