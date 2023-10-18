@@ -90,7 +90,7 @@ Sometimes we do our vision coding in Python on the co-processor.
 Self-Paced Training
 ~~~~~~~~~~~~~~~~~~~~~
 
-https://www.w3schools.com/python/default.asp
+-    `W3 Schools tutorial <https://www.w3schools.com/python/default.asp>`_
 
 
 TODO:  add more details
