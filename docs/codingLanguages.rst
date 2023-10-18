@@ -46,7 +46,7 @@ Self-paced Training:
 ~~~~~~~~~~~~~~~~~~~~~
 
 
--    `W3 Schools XML Tutorial <https://www.w3schools.com/xml/default.asp>`_
+-    `W3Schools XML Tutorial <https://www.w3schools.com/xml/default.asp>`_
 
 
 Training Presentations:
@@ -90,7 +90,7 @@ Sometimes we do our vision coding in Python on the co-processor.
 Self-Paced Training
 ~~~~~~~~~~~~~~~~~~~~~
 
--    `W3 Schools Python tutorial <https://www.w3schools.com/python/default.asp>`_
+-    `W3Schools Python tutorial <https://www.w3schools.com/python/default.asp>`_
 
 
 TODO:  add more details
