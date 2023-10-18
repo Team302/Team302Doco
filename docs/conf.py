@@ -26,6 +26,7 @@ author = "Team 302 Software Team"
 # -- General configuration
 
 extensions = [
+    "sphinx_new_tab_link",
     "sphinx.ext.duration",
     "sphinx.ext.doctest",
     "sphinx.ext.autodoc",
