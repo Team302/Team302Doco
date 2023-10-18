@@ -51,8 +51,8 @@ Self-paced Training:
 Training Presentations:
 ~~~~~~~~~~~~~~~~~~~~~
 
--    `Introduction to XML training from 2017, covers XML, DTD and Robot.xml parsing concepts 
-<https://docs.google.com/presentation/d/1oUOGqBp5AHyon0QSj0bG_IrJghgE0Y1lq85PgYP48Mw/edit#slide=id.g1f87997393_0_782>`_
+-    `Introduction to XML training from 2017:  
+<https://docs.google.com/presentation/d/1oUOGqBp5AHyon0QSj0bG_IrJghgE0Y1lq85PgYP48Mw/edit#slide=id.g1f87997393_0_782>`_  covers XML, DTD and Robot.xml parsing concepts
 
 
 Code Generator Code 
@@ -72,7 +72,7 @@ Self-paced Tutorials:
 Training Presentations:
 ~~~~~~~~~~~~~~~~~~~~~
 
--   `C# programming from 2017 General with Hero board-based demonstration robot activities <https://docs.google.com/presentation/d/149Tu9QUNAZ9sPf6bedXer4GpiOl1lxSqK600yxFeNK0/edit#slide=id.g3ca070eb69_0_62>`_
+-   `C# programming from 2017 <https://docs.google.com/presentation/d/149Tu9QUNAZ9sPf6bedXer4GpiOl1lxSqK600yxFeNK0/edit#slide=id.g3ca070eb69_0_62>`_  General with Hero board-based demonstration robot activities
 
 
 Co-Processor
