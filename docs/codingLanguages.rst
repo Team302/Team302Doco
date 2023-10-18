@@ -25,14 +25,13 @@ Self-paced Tutorials:
 Training Presentations:
 ~~~~~~~~~~~~~~~~~~~~~
 
--     `C++ Basics (summer 2023) - Generic C++ using online compiler <https://docs.google.com/presentation/d/1PeexmqShnf3PD-yPm97TZl94VXbjihP0/edit?usp=sharing&ouid=108257398000499150515&rtpof=true&sd=true>`_
+-     `C++ Basics (summer 2023):  <https://docs.google.com/presentation/d/1PeexmqShnf3PD-yPm97TZl94VXbjihP0/edit?usp=sharing&ouid=108257398000499150515&rtpof=true&sd=true>`_  Generic C++ using online compiler
 
--    `C++ Programming I (2017) - Robot-based examples for basic C++ concepts (need a chassis bot to complete activities) <https://docs.google.com/presentation/d/1K56woxaXvloTdD96qgGN816_1pcUihMs8mL8JUr8M4Y/edit#slide=id.g1f87997393_0_782>`_
+-    `C++ Programming I (2017): <https://docs.google.com/presentation/d/1K56woxaXvloTdD96qgGN816_1pcUihMs8mL8JUr8M4Y/edit#slide=id.g1f87997393_0_782>`_   Robot-based examples for basic C++ concepts (need a chassis bot to complete activities)
 
--    `C++ Programming II (2017) - Object Oriented and C++ 11/14 concepts (need a chassis bot to complete activities) <https://docs.google.com/presentation/d/1bt-19HIg4407cSDP2U8ghxULp6YjhSRs7ZiG9XLmSW8/edit?pli=1#slide=id.g1f87997393_0_782>`_
+-    `C++ Programming II (2017): <https://docs.google.com/presentation/d/1bt-19HIg4407cSDP2U8ghxULp6YjhSRs7ZiG9XLmSW8/edit?pli=1#slide=id.g1f87997393_0_782>`_   Object Oriented and C++ 11/14 concepts (need a chassis bot to complete activities)
 
--    `Year 1 training 2023 (requires chassis bot to complete activities)
- <https://docs.google.com/presentation/d/13W5solJC5CxRrpFzc1F39aa1BfkAEQIf/edit?usp=sharing&ouid=108257398000499150515&rtpof=true&sd=true>`_
+-    `Year 1 training 2023:  <https://docs.google.com/presentation/d/13W5solJC5CxRrpFzc1F39aa1BfkAEQIf/edit?usp=sharing&ouid=108257398000499150515&rtpof=true&sd=true>`_ requires chassis bot to complete activities
 
 
 XML / DTD / XSD
