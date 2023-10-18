@@ -2,7 +2,7 @@
 Robot Hardware 
 ==============================
 
-`Robot Hardware Overview Presentation <https://docs.wpilib.org/en/stable/stubs/hardware-stub.html>`_ coversbasice hardware.
+`Robot Hardware Overview Presentation <https://docs.wpilib.org/en/stable/stubs/hardware-stub.html>`_ covers basic hardware.
 
 -    `Robot Hardware Overview Presentation <https://docs.google.com/presentation/d/1Dhm7V9cdh9EMjhA33Lmx3TD4fkXS6uLIZx33OOgIuTM/edit#slide=id.g1f87997393_0_782>`_
 
