@@ -50,7 +50,7 @@ Detection algorithms give us 2D and 3D information about the AprilTag to get an 
 We can get the robot position relative to the AprilTag or relative to the field depending on if the tool we are using supports it or we do it ourselves in our code.  
 AprilTags come in "families" which specify the encoding used to create the image.  
 Currently for the 2024 season, FRC is using the `36h11 family <https://firstfrc.blob.core.windows.net/frc2024/FieldAssets/Apriltag_Images_and_User_Guide.pdf>`_.
-For more information, see the AprilTag specfic sections for `Limelight <docs/limelight:AprilTags>`_ and `PhotonVision <docs/photonvision:AprilTags>`_.
+For more information, see the AprilTag specfic sections for `Limelight <limelight:AprilTags>`_ and `PhotonVision <photonvision:AprilTags>`_.
 
 Game Piece / Field Element Detection
 --------------------------------------
@@ -68,16 +68,16 @@ Software Solutions on Co-Processor
 
 PhotonVision
 -------------
+.. note:: This needs a co-processor (raspberry/orange pi) or runs on a LimeLight 2.
 
-TODO:  pull doco
-This needs a co-processor or runs on a LimeLight.
+Similar functionality to Limelight, still communicates over NetworkTables and supports different pipelines (hsv thresholding and AprilTags).
+Needs some additional setup to image a co-processor, not plug-and-play like Limelight.
+
 
 
 OpenCV
 --------
-
-TODO: pull doco
-This needs a co-processor (or technically can run on the RoboRio but don't).
+.. note:: This needs a co-processor (or technically can run on the RoboRio but don't).
 
 GRIP
 -------
