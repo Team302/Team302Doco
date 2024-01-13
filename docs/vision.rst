@@ -53,8 +53,7 @@ Currently for the 2024 season, FRC is using the `36h11 family <https://firstfrc.
 
 Game Piece / Field Element Detection
 --------------------------------------
-
-TODO: pull doco
+Game Piece and Field Element detection can be done simply with HSV thresholding or with Machine Learning (PhotonVision currently doesn't support Machine Learning, would have to use another solution on a Pi or use Limelight).
 
 
 
