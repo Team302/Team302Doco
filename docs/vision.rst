@@ -50,6 +50,7 @@ Detection algorithms give us 2D and 3D information about the AprilTag to get an 
 We can get the robot position relative to the AprilTag or relative to the field depending on if the tool we are using supports it or we do it ourselves in our code.  
 AprilTags come in "families" which specify the encoding used to create the image.  
 Currently for the 2024 season, FRC is using the `36h11 family <https://firstfrc.blob.core.windows.net/frc2024/FieldAssets/Apriltag_Images_and_User_Guide.pdf>`_.
+For more information, see the AprilTag specfic sections for `Limelight <docs/limelight:AprilTags>`_ and `PhotonVision <docs/photonvision:AprilTags>`_.
 
 Game Piece / Field Element Detection
 --------------------------------------
