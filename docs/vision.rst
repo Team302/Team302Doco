@@ -54,6 +54,11 @@ Currently for the 2024 season, FRC is using the `36h11 family <https://firstfrc.
 Game Piece / Field Element Detection
 --------------------------------------
 Game Piece and Field Element detection can be done simply with HSV thresholding or with Machine Learning (PhotonVision currently doesn't support Machine Learning, would have to use another solution on a Pi or use Limelight).
+FRC game pieces are commonly monochrome so HSV thresholding is a quick way to get detection up and running.
+This can give us x and y offsets in the form of pixels.  
+Camera characterization and collecting data based on distance can give us a distance measurement as well.
+Machine Learning is a "smarter" way of detecting game pieces that can give more data and be more specific about detections.
+ML can classify objects with more than just color and allow us to do more based on what specific type of object is detected.
 
 
 
