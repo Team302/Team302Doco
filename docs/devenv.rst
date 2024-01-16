@@ -10,7 +10,7 @@ To set up the environment, first follow the instructions from https://docs.wpili
 
 These steps will install:
 
-* WPI Tools such as SmartDashboard, Shuffleboard and Glass (all dashboards), PathWeaver (autonomous path planning) and SysID (robot characterization).
+* WPI Tools such as SmartDashboard, Shuffleboard and Glass (all dashboards), PathWeaver (Use Path and SysID (robot characterization).
 * `VS Code <https://code.visualstudio.com/>`_ - A development environment to write robot code.
 * The WPILib extension for VS Code which provides features for us to build and deploy robot code to the robot.
 
@@ -68,8 +68,10 @@ Software Configuration Management Tools
 GitHub / Github Desktop 
 --------------------------
 
-GitHub is a website where our code is stored using a tool called Git.  Additionally, we manage our tasks and ToDo's using a Kanban board.  Our main GitHub page can be found at: https://github.com/orgs/Team302/repositories.
-GitHub Desktop is a desktop program that interacts with GitHub to make it easier to commit code changes.  This is the most commonly used tool to manage our commits and changes locally.  It can be found here: https://desktop.github.com/.
+GitHub is a website where our code is stored using a tool called Git.  Additionally, we manage our tasks and ToDo's using a Kanban board.  
+-Our main GitHub page can be found at: https://github.com/orgs/Team302/repositories.
+GitHub Desktop is a desktop program that interacts with GitHub to make it easier to commit code changes.  This is the most commonly used tool to manage our commits and changes locally. 
+-It can be found here: https://desktop.github.com/.
 
 GitKraken
 ---------
@@ -104,6 +106,9 @@ TODO:  Add Details
 
 
 
+
+
+
 Radio
 ===================================
 
@@ -113,3 +118,28 @@ Radio Configuration Tools (see https://team302doco.readthedocs.io/en/latest/hard
 TODO:  Add Details
 
 
+Rev Hardware
+===================================
+Similar to Phenoix Tuner, Rev Hardware is used for configuring Rev motors.
+-downlaod at (https://docs.revrobotics.com/rev-hardware-client/) and click instalation along the left side
+
+
+Phoenix Tuner X
+===================================
+different from original phenox tuner, Pheonix Tuner X is the updated, better version, but serves the same function as Pheonix tuner: configuring motors.
+
+-Find Pheonix Tuner X on the microsoft store and downlaod/update
+
+
+Balena Etcher
+===================================
+Not absolutely neccesary on every laptop, but should be added. Belena etcher is used to flash sd cards, USb drives, liemlights, and more.
+
+find Balena at (https://etcher.balena.io) and download.
+
+
+PathPlanner
+===================================
+instead of using PathWeaver, which is installed with WPILib, We install PathPlanner becuase of it's faster speed and easier use.
+
+-Find PathPlanner in the microsoft store and download/update
