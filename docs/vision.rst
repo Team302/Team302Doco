@@ -68,7 +68,8 @@ Software Solutions on Co-Processor
 
 PhotonVision
 -------------
-.. note:: This needs a co-processor (raspberry/orange pi) or runs on a LimeLight 2.
+.. note::   This needs a co-processor (raspberry/orange pi) or runs on a LimeLight 2
+
 
 Similar functionality to Limelight, still communicates over NetworkTables and supports different pipelines (hsv thresholding and AprilTags).
 Needs some additional setup to image a co-processor, not plug-and-play like Limelight.
@@ -77,7 +78,8 @@ Needs some additional setup to image a co-processor, not plug-and-play like Lime
 
 OpenCV
 --------
-.. note:: This needs a co-processor (or technically can run on the RoboRio but don't).
+.. note::   This needs a co-processor (or technically can run on the RoboRio but don't) blah
+OpenCV is a library used for all sorts of various 
 
 GRIP
 -------
