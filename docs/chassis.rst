@@ -6,7 +6,8 @@ Chassis
 Swerve
 ============
 
-.. todo::
+.. image:: ./images/Team302LogoNew.png
+
 Add information
 
 Swerve Math
