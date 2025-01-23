@@ -3,6 +3,8 @@
 Closed Loop Control
 =======================
 
+.. image:: ./images/DerekSW.jpg
+
 
 Theory
 =======================
