@@ -15,6 +15,7 @@ Contents
    devenv
    hardware
    doco
+   design
    codingLanguages
    robotcode
    controllerTools
