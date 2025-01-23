@@ -20,12 +20,20 @@ As a general rule, there are not loops in the periodic routines as this code is 
 Presentations
 ====================
 
+Iterative Robot
+---------------
 https://docs.google.com/presentation/d/1QZVJoTMAku7hOwZAs1tNAO83_mChDXLXYg4HWHvv3PM/edit#slide=id.g3c87b495af_0_0
 
+Robot Hardware
+--------------
 https://docs.google.com/presentation/d/1Dhm7V9cdh9EMjhA33Lmx3TD4fkXS6uLIZx33OOgIuTM/edit#slide=id.g1f87997393_0_782
 
+Data Driven Robot Structure
+---------------------------
 https://docs.google.com/presentation/d/19RoP2f6UMAKUeeprYdJLxGrGX3dBWLX5gTrPWNBichk/edit#slide=id.g405015a370_0_26
 
+Autonomous Structure
+--------------------
 https://docs.google.com/presentation/d/184iOF7HFaPfpPfC1JpWVNIyWscpaO2jDgGzur1je3Hk/edit#slide=id.g1f87997393_0_782
 
 
