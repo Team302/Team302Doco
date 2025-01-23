@@ -5,8 +5,11 @@ Coding Languages
 .. _installation:
 
 
+
 RoboRio Robot Code
 ====================
+
+.. image:: ./images/sw.jpg
 
 
 C++
@@ -24,6 +27,9 @@ Self-paced Tutorials:
 
 Training Presentations:
 ~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: ./images/year1SWTraining.jpg
+
 
 -     `C++ Basics (summer 2023):  <https://docs.google.com/presentation/d/1PeexmqShnf3PD-yPm97TZl94VXbjihP0/edit?usp=sharing&ouid=108257398000499150515&rtpof=true&sd=true>`_  Generic C++ using online compiler
 
