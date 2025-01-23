@@ -3,6 +3,8 @@
 Plotting/Graphing
 =========================
 
+.. image:: ./images/SoftwareAtRoboExpo.jpg
+
 
 Third Coast Tools
 =========================
