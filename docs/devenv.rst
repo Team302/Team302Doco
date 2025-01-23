@@ -3,6 +3,9 @@
 Development Enviornment
 ===================================
 
+.. image:: ./images/SWTesting.jpg
+
+
 Initial Environment Setup (WPILib + VS Code)
 ====================================
 
@@ -18,6 +21,8 @@ Visual Studio Code
 --------
 
 Visual Studio (VS) Code is a free development environment that is best supported by WPILib.  It is different from Microsoft's other development environment, Visual Studio, in many ways.  However, we do use Visual Studio to develop our code generator.  VS Code comes bundled with WPILib's install so there is no need to install separately.  It also comes with the WPILib extension, which offers lots of functionality to build and deploy robot code, simulate robot code, and more.  
+
+.. image:: ./images/sof.jpg
 
 VS Code Intellisense Issue
 ^^^^^^^^^^^^^^^^
