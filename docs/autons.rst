@@ -18,6 +18,9 @@ For the 2023 season we should be eliminating one of the Path option.  Additional
 
 `See Path Generation <https://team302doco.readthedocs.io/en/latest/paths.html>`_ for details on how paths are created.
 
+Auton Structure
+https://docs.google.com/presentation/d/184iOF7HFaPfpPfC1JpWVNIyWscpaO2jDgGzur1je3Hk/edit#slide=id.g1f87997393_0_782
+
 .. todo::
 Add information
 
