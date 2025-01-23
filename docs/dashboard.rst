@@ -3,6 +3,7 @@
 Driver's Station / Dashboards
 ===================================
 
+.. image:: ./images/settingUpDriveStations.jpg
 
 Driver's Station
 =================
