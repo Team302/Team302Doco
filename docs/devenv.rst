@@ -9,18 +9,23 @@ Development Enviornment
 Initial Environment Setup (WPILib + VS Code)
 ====================================
 
-To set up the environment, first follow the instructions from https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html for the C++ or common tasks.  
+To set up the environment, first follow the instructions from https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html for the C++ or common tasks.  Pay attention to how to install third party apps.  This will give access to things we use such as:
+* WPILIB-New-Commands (used by chassis and vision)
+* CTRE-Phoenix (v5) older hardware
+* CTRE-Phoenix (v6) newer hardware
+* CTRE-Phoenix Replay (v6)
+* Elastic (dashboard)
+* Choreo (autonomous path generation)
+* Glass (dashboard)
+* AdvantageScope (log viewer)
 
-These steps will install:
-
-* WPI Tools such as SmartDashboard, Shuffleboard and Glass (all dashboards), PathWeaver (Use Path and SysID (robot characterization).
-* `VS Code <https://code.visualstudio.com/>`_ - A development environment to write robot code.
-* The WPILib extension for VS Code which provides features for us to build and deploy robot code to the robot.
 
 Visual Studio Code 
 --------
 
-Visual Studio (VS) Code is a free development environment that is best supported by WPILib.  It is different from Microsoft's other development environment, Visual Studio, in many ways.  However, we do use Visual Studio to develop our code generator.  VS Code comes bundled with WPILib's install so there is no need to install separately.  It also comes with the WPILib extension, which offers lots of functionality to build and deploy robot code, simulate robot code, and more.  
+Visual Studio Code (VSCode) is a free development environment that is best supported by WPILib.  It is different from Microsoft's other development environment, Visual Studio, in many ways.  However, we do use Visual Studio to develop our code generator.  VS Code comes bundled with WPILib's install so there is no need to install separately.  It also comes with the WPILib extension, which offers lots of functionality to build and deploy robot code, simulate robot code, and more.  
+
+We have been using Github Copilot as well inconjunction with VSCode to develop the software.
 
 .. image:: ./images/sof.jpg
 
@@ -78,10 +83,6 @@ GitHub is a website where our code is stored using a tool called Git.  Additiona
 GitHub Desktop is a desktop program that interacts with GitHub to make it easier to commit code changes.  This is the most commonly used tool to manage our commits and changes locally. 
 -It can be found here: https://desktop.github.com/.
 
-GitKraken
----------
-
-GitKraken is a similar program to GitHub desktop, however we have recently switched to using GitHub Desktop instead.  If you are still interested in using GitKraken, the free version can be downloaded at: https://www.gitkraken.com/.
 
 VS Code Plugin
 ---------------
@@ -94,25 +95,10 @@ Here are some of the common commands we use from the WPILib VS Code Extension:
 
 .. note:: In the future, we may also create our own vs code extension to add convenient features like pulling up the docs locally and starting the code generator from vs code.
 
-NI Game Tools 
+NI Game Tools - Driver's Station
 ===================================
 
-
-RoboRio Imaging Tools
------------------------
-
-TODO:  Add Details
-
-
-Driver's Station
-------------------
-
-TODO:  Add Details
-
-
-
-
-
+The Driver's station comes with this installation as well as the networking capablities to use the USB A to USB B cord (more affectionately known as the BAH-BAH cord) to interact with the RoboRio.
 
 Radio
 ===================================
