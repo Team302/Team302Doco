@@ -5,32 +5,12 @@ Path Generationn
 Choreo
 ======
 
-This is used to generate paths ahead of time.
+This is used to generate paths ahead of time.  Documentation is found at:  https://choreo.autos/
 
-TODO:  Add information
+Previously, we have used PathPlanner and PathWeaver, but we like Choreo better.  PathPlanner is still ok for generating paths on the fly, but we have switched to a servoing schema which is faster and seems to work better. 
 
+We have not generated WPI trajectories directly.   
 
-PathPlanner
-=======================
+We have not explored Helix Navigator.   
 
-This is used to generate paths on-the-fly.
-
-TODO:  Add information
-
-
-Path Weaver
-============
-
-This is no longer used.
-
-Helix Navigator
-=================
-
-We have not explored this tool.
-
-
-Manual - Trajectory Generator
-==============================
-
-We don't do this explicitly.  We utilize PathPlanner to generate paths on-the-fly through known points.
 
