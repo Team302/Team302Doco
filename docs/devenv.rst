@@ -10,13 +10,21 @@ Initial Environment Setup (WPILib + VS Code)
 ====================================
 
 To set up the environment, first follow the instructions from https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html for the C++ or common tasks.  Pay attention to how to install third party apps.  This will give access to things we use such as:
+
 * WPILIB-New-Commands (used by chassis and vision)
+
 * CTRE-Phoenix (v5) older hardware
+
 * CTRE-Phoenix (v6) newer hardware
+
 * CTRE-Phoenix Replay (v6)
+
 * Elastic (dashboard)
+
 * Choreo (autonomous path generation)
+
 * Glass (dashboard)
+
 * AdvantageScope (log viewer)
 
 
