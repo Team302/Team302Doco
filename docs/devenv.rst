@@ -137,8 +137,6 @@ Not absolutely neccesary on every laptop, but should be added. Belena etcher is 
 find Balena at (https://etcher.balena.io) and download.
 
 
-PathPlanner
+Choreo
 ===================================
-instead of using PathWeaver, which is installed with WPILib, We install PathPlanner becuase of it's faster speed and easier use.
-
--Find PathPlanner in the microsoft store and download/update
+We've switched to Choreo for generating the Autonomous paths.  Previously we have used PathPlanner and PathWeaver.   The advantages of using choreo is it generates paths based on physics whereas PathPlanner, for instance, didn't take into account maximum robot speed/weight. Thus, you could generate paths that the robot could not follow.
