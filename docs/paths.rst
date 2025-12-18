@@ -1,9 +1,7 @@
 ============================
-Path Generationn
+Path Generation = Choreo
 ============================
 
-Choreo
-======
 
 This is used to generate paths ahead of time.  Documentation is found at:  https://choreo.autos/
 
