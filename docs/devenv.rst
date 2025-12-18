@@ -132,7 +132,7 @@ different from original phenox tuner, Pheonix Tuner X is the updated, better ver
 
 Balena Etcher
 ===================================
-Not absolutely neccesary on every laptop, but should be added. Belena etcher is used to flash sd cards, USb drives, liemlights, and more.
+Not absolutely neccesary on every laptop, but should be added. Belena etcher is used to flash sd cards (including those for the RoboRio), USb drives, limelights, and more.
 
 find Balena at (https://etcher.balena.io) and download.
 
