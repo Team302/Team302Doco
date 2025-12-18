@@ -23,6 +23,7 @@ Contents
    chassis
    mechanisms
    vision
+   hailo8ML
    paths
    autons
    logging
