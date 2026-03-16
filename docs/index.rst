@@ -23,6 +23,8 @@ Contents
    chassis
    mechanisms
    vision
+   hailo8ML
+   Roboflow
    paths
    autons
    logging
