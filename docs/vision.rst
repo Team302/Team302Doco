@@ -119,3 +119,10 @@ JeVois
 -------------
 
 TODO: pull doco
+
+
+.. include:: hailo8ML.rst
+   :literal
+
+.. include Roboflow.rst
+   :literal
