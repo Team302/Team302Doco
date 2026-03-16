@@ -1,13 +1,16 @@
+========================================
+Roboflow
+========================================
 .. module:: roboflow_integration
     :synopsis: Roboflow integration for machine vision dataset management and YOLO model training
 
 Overview
---------
+========================================
 This module demonstrates the use of Roboflow for generating, annotating, and managing datasets for 
 machine vision tasks, with a focus on object detection using the YOLO (You Only Look Once) model family.
 
 Roboflow Usage for Object Detection
-------------------------------------
+========================================
 Roboflow is a comprehensive computer vision platform that streamlines the process of creating, annotating,
 and deploying machine learning models for object detection tasks. It provides tools for:
 
@@ -18,7 +21,7 @@ and deploying machine learning models for object detection tasks. It provides to
 * API access for programmatic dataset manipulation
 
 Why Use Roboflow
-~~~~~~~~~~~~~~~~
+----------------
 Roboflow solves several key challenges in machine vision projects:
 
 1. **Centralized Dataset Management**: Maintains a single source of truth for all training data
